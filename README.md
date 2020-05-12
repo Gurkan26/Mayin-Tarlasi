@@ -9,9 +9,9 @@ Gürkan Şentürk www.gurkansenturk.com
 
 
 
-Giriş Sayfası
-![Giriş](https://i.hizliresim.com/ppFWvp.png)
-Oyundan Kesit-1
-![Sayfa1](https://hizliresim.com/jD0Ufb)
-Oyundan Kesit-2
-![Sayfa2](https://hizliresim.com/JiPYfD)
+
+![Giriş](https://i.hizliresim.com/ppFWvp.png "Giriş Sayfası")
+
+![Sayfa1](https://i.hizliresim.com/jD0Ufb.png "Oyundan Kesit -1")
+
+![Sayfa2](https://i.hizliresim.com/JiPYfD.png "Oyundan Kesit -2")
