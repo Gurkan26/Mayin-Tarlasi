@@ -4,3 +4,14 @@ Bu projemde de bir mayın tarlası oyunu geliştirdim. Benim oyunumda farklı ol
 
 -----------
 Gürkan Şentürk www.gurkansenturk.com
+
+
+
+
+
+Giriş Sayfası
+![Giriş](https://hizliresim.com/ppFWvp)
+Oyundan Kesit-1
+![Sayfa1](https://hizliresim.com/jD0Ufb)
+Oyundan Kesit-2
+![Sayfa2](https://hizliresim.com/JiPYfD)
