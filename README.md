@@ -10,7 +10,7 @@ Gürkan Şentürk www.gurkansenturk.com
 
 
 Giriş Sayfası
-![Giriş](https://hizliresim.com/ppFWvp)
+![Giriş](https://i.hizliresim.com/ppFWvp.png)
 Oyundan Kesit-1
 ![Sayfa1](https://hizliresim.com/jD0Ufb)
 Oyundan Kesit-2
